@@ -695,7 +695,7 @@ Found a bug or have an idea?
 
 Open an issue in the repository:
 
-[ProxyHunter Issues](https://github.com/mohitsharma099999-tech/proxyhunter/issues?utm_source=chatgpt.com)
+[ProxyHunter Issues](https://github.com/mohitsharma099999-tech/proxyhunter/issues)
 
 Please include:
 
@@ -716,11 +716,11 @@ Software Engineer | Cybersecurity | Python | Networking | Open Source
 
 GitHub:
 
-[@mohitsharma099999-tech](https://github.com/mohitsharma099999-tech?utm_source=chatgpt.com)
+[@mohitsharma099999-tech](https://github.com/mohitsharma099999-tech)
 
 Repository:
 
-[ProxyHunter](https://github.com/mohitsharma099999-tech/proxyhunter?utm_source=chatgpt.com)
+[ProxyHunter](https://github.com/mohitsharma099999-tech/proxyhunter)
 
 ---
 
