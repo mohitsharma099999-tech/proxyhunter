@@ -736,13 +736,26 @@ If ProxyHunter is useful for your development, networking, or security research:
 
 ---
 
-# 📜 License
+## 📜 License
 
-This project currently does not specify a license in the repository.
+This project is licensed under the **MIT License**.
 
-If you intend to make the project broadly open source, consider adding an appropriate license such as **MIT** after deciding on the terms under which others may use, modify, and distribute the software.
+Copyright © 2026 **Mohit Sharma**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the **"Software"**), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+### Disclaimer
+
+THE SOFTWARE IS PROVIDED **"AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
+
+**© 2026 Mohit Sharma · Released under the MIT License**
+
 
 <div align="center">
 
