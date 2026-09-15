@@ -1,0 +1,12 @@
+# ProxyHunter - Requirements
+# Python 3.7+
+
+# HTTP client for fetching proxy lists from GitHub
+requests>=2.28.0
+
+# Note: All other modules used are part of Python's standard library:
+# - re, sys, json, os
+# - collections (defaultdict)
+# - argparse
+# - typing
+# - concurrent.futures (not used in current version)
