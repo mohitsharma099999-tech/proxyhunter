@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""
-ProxyHunter - A terminal-based tool to fetch, organize and display proxy lists
-Uses only GitHub repo JSON data (no API calls)
-"""
+
 
 import requests
 import re
